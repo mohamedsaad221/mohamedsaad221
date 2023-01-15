@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Mohammed Saad 👋:heart: </h2>
 
-![](https://img.shields.io/badge/Mobile-Engineer-purple)
+![](https://img.shields.io/badge/Software-Engineer-purple)
 
 <hr>
 
